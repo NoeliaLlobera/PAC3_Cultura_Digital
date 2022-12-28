@@ -6,6 +6,7 @@ Aquest treball té com a objectiu analitzar el concepte d'hibridació de mitjans
 
 ### 'Invizimals': un dels jocs pioners en la realitat augmentada
 ![Caràtula del primer videojoc de la saga Invizimals](https://upload.wikimedia.org/wikipedia/en/d/dc/Invizimals.jpg)
+
 *Invizimals* és una saga de videojocs, dissenyats principalment per a la consola PSP (*Play Station Portable*), creada per la companyia catalana Novorama. El primer joc de la saga va ser publicat, amb força èxit, al setembre 2009 convertint-se en un dels pioners de la realitat augmentada en el sector. 
 
 En total, la saga compta amb 8 jocs, destinats a diferents consoles i dispositius (PSP, PS Vita, PS3, Android i iPhone). Els primers jocs feien ús d'una càmera (Go!Cam) que es connectava a la consola PSP i d'una de targeta sobre les quals es visualitzaven els *invizimals*, els petits éssers que protagonitzen els videojocs. El pretext del joc és que els *invizimals* són animals invisibles per als humans, de manera que només a través de la càmera del joc es poden veure. El joc consistia a capturar aquestes criatures i en fer combats entre elles. A més, també hi havia una col·lecció de cartes col·lacionables d'*invizimals*, que es podien escanejar amb la consola i jugar amb els animals que "guardaven".
@@ -17,7 +18,8 @@ Per començar a analitzar aquest videojoc des de la perspectiva de la hibridaci�
 En el cas del videojoc *Invizimals* en el seu dia podíem veure que es tractava d'una cosa nova. Estàvem acostumats al vídeo a través de càmeres digitals, també als *motion graphics*, les animacions fetes a ordinador, també als jocs interactius a través de les consoles. En el videojoc analitzat veiem tot això d'una manera 100% integrada. Veiem les imatges d'una càmera digital on hi ha superposada una imatge creada a ordinador i tot això forma part d'un videojoc, que és el mitjà on està integrat tot i el que dona un suport per reproduir tot això sense necessitat de tenir diversos reproductors o suports.
 
 ### 'Pregoneros de Medellín': un reportatge amb narrativa híbrida!
-<iframe src="https://player.vimeo.com/video/123789400?h=89d45a1dd3" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+![pregoneros](https://pregonerosdemedellin.com/images/seo/es.jpg)
+[Mira aquí el tràiler del projecte](https://player.vimeo.com/video/123789400?h=89d45a1dd3)
 
 *Pregoneros de Medellín* és un documental/reportatge interactiu publicat l'abril de 2015 que explica de manera interactiva les vivències de quatre venedors ambulants de la ciutat colombiana de Medellín. El projecte va ser impulsat per Angela Carabalí i Thibault Durand.
 
